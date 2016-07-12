@@ -10,4 +10,7 @@
   <string name="input_hint">FB</string>
   <string name="input_prefill"></string>
   <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+
+  <!-- fab button description -->
+  <string name="content_des_add_stock">Add a new stock item</string>
 </resources>
